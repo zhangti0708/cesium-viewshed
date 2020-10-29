@@ -14,7 +14,7 @@
 
 #####  然后引入 cesium-viewshed.js 即可
 
-<a href="http://zhangticcc.gitee.io/webgis/"><img alt="" height="80%" src="https://img-blog.csdnimg.cn/20201029105641945.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDkwMjUyNw==,size_16,color_FFFFFF,t_70" width="80%" ></a>&nbsp;
+<a href="http://zhangticcc.gitee.io/webgis/"><img alt="" height="100%" src="https://img-blog.csdnimg.cn/20201029105641945.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDkwMjUyNw==,size_16,color_FFFFFF,t_70" width="90%" ></a>&nbsp;
 
 ``` 
     // 初始化
